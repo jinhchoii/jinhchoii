@@ -4,10 +4,10 @@
 Passionate about **cloud systems**, **AI-driven solutions**, and **scalable data pipelines**.
 
 ## 🚀 Projects
-- **QuizNoteAI** → [🔗 View Repo](https://github.com/jinhchoii/quiznoteai)  
-  _AI-powered study guide generator using Next.js, C#, PostgreSQL, and Google Gemini._
-- **Smart Data Synthetic Generator** → [🔗 View Repo](https://github.com/jinhchoii/smart-data-generator)  
-  _Generates realistic synthetic datasets using FastAPI, AWS Bedrock, S3, and DynamoDB._
+- **DataDream** → [🔗 View Repo](https://github.com/jinhchoii/DataDream)  
+  _AI-powered synthetic data generation platform built on AWS Cloud Platform for GenAI Hackathon by Impetus & AWS using React, FastAPI, and AWS services_
+- **WageWise** → [🔗 View Repo](https://github.com/jinhchoii/WageWise)  
+  _A full-stack web application that predicts salary based on various features using machine learning regression models_
 - **dbt Financial Pipeline** → [🔗 View Repo](https://github.com/jinhchoii/dbt-financial-pipeline)  
   _BigQuery + dbt models for transaction enrichment and analytics._
 
