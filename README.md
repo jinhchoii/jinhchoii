@@ -16,9 +16,10 @@ Passionate about **cloud systems**, **AI-driven solutions**, and **scalable data
   _PowerPoint slides generator using ChatGPT_
 
 ## 🛠️ Tech Stack
-**Languages:** Python, SQL, C#, Java, TypeScript  
-**Frameworks & Tools:** AWS, GCP, Azure, dbt, BigQuery, Airflow, Docker, FastAPI, React  
-**Libraries:** TensorFlow, Pandas, NumPy, scikit-learn, OpenAI SDK
+**Languages:** Python, Java, Go, C#, SQL, YAML, Scala, JavaScript, TypeScript, HTML/CSS
+**Frameworks & Platforms:** Azure (Logic Apps, Data Factory, Functions, BizTalk), Apache Airflow, Apache Spark, Docker, dbt, GCP (Google Cloud Storage, BigQuery, Cloud Composer, Dataproc), AWS (Lambda, S3, DynamoDB, API Gateway, Bedrock, CloudFormation), FastAPI, RESTful API, React.js, PySpark  
+**Developer Tools:** Git, VS Code, Visual Studio, Azure DevOps, JIRA, Confluence, Docker, Kubernetes, AWS CLI
+**Libraries & SDKs:** TensorFlow, Pandas, NumPy, Scikit-learn, OpenAI SDK, Matplotlib
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameschoi01)
