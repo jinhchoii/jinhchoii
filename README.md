@@ -8,8 +8,12 @@ Passionate about **cloud systems**, **AI-driven solutions**, and **scalable data
   _AI-powered synthetic data generation platform built on AWS Cloud Platform for GenAI Hackathon by Impetus & AWS using React, FastAPI, and AWS services_
 - **WageWise** → [🔗 View Repo](https://github.com/jinhchoii/WageWise)  
   _A full-stack web application that predicts salary based on various features using machine learning regression models_
-- **dbt Financial Pipeline** → [🔗 View Repo](https://github.com/jinhchoii/dbt-financial-pipeline)  
-  _BigQuery + dbt models for transaction enrichment and analytics._
+- **automate-gcs-bq** → [🔗 View Repo](https://github.com/jinhchoii/automate-gcs-bq)  
+  _a cloud function trigger to automatically create table and upload data to Bigquery_
+- **paperToVideo** → [🔗 View Repo](https://github.com/jinhchoii/paperToVideo)  
+  _Summarize research papers and pdf books into YouTube shorts videos in Korean_
+- **ChatGPT-Powerpoint** → [🔗 View Repo](https://github.com/jinhchoii/ChatGPT-Powerpoint)  
+  _PowerPoint slides generator using ChatGPT_
 
 ## 🛠️ Tech Stack
 **Languages:** Python, SQL, C#, Java, TypeScript  
