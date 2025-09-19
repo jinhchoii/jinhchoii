@@ -1,4 +1,4 @@
-# 👋 Hi, I'm James Choi
+# 👋 Hi, my name is James :)
 
 💻 **Aspiring Solutions Architect** | Software Developer | Data Engineer  
 Passionate about **cloud systems**, **AI-driven solutions**, and **scalable data pipelines**.
